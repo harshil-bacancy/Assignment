@@ -1,0 +1,28 @@
+1) Calculate body mass index BMI = weight x 703 / height ** 2
+
+2) Calculate price of carpet require for given room
+
+   carpet comes in 12 feet * 12 feet size .
+   cost of carpet= 30 Rs. / sqr feet
+   cost of laying out carpet = 2 rs /sqr feet
+
+   Get size of room in length and width from user
+
+   Display minimum number of blocks required and minimum cost to layout carpet in the room
+
+3) celcious to fahrenhit / fahrenhit to celcious
+   °C x 9/5 + 32 = °F.
+
+4) Take input from user and find total number of odd / even number
+
+5) Average of a vehicle =  Kilometer / Liter
+
+   Take everage of vehicle from user and fuel in tank and find how much distance it can travel with available fuel
+6. Get temperature of difference cities. User will enter temperature either in  °C Or °F. Display list of city with temperature in °F in decending order.
+  NOTE: Don't use built in functions to sort the data
+
+
+Note: - push all 6 progeramm in github repo under same name called "exersice".(with 6 file)
+      - Do not help each other for any above problem 
+      - After complete one program , push it in github and provide link to personal skype for testing (same for all)
+ 
